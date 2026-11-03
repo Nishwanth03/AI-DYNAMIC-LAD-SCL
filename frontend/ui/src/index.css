@@ -1,0 +1,7 @@
+*{box-sizing:border-box}html,body,#root{margin:0;min-height:100%;width:100%}body{font-family:Inter,Segoe UI,Arial,sans-serif;background:#f3f5f8;color:#182230}button,input,textarea,select{font:inherit}button{cursor:pointer}
+/* * { box-sizing: border-box; }
+html, body, #root { margin: 0; min-height: 100%; width: 100%; }
+body { font-family: Inter, "Segoe UI", Arial, sans-serif; }
+button, input, textarea, select { font: inherit; }
+button { cursor: pointer; }
+::selection { color: #041724; background: #55dff0; } */

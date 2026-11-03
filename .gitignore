@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+bin/
+obj/
+.npm/
+.parcel-cache/
+*.bak
+
+# Logs and local output
+*.log
+logs/
+*.sqlite3
+
+# Editor / OS
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env*
+!.env.example
+!**/.env.example
+
+# Generated / local
+generated/
+coverage/
